@@ -77,7 +77,7 @@ while(True):
         print('Jogador numero 1 ganhou')
         break
     if(verificar_empate(tabela)):
-        print('Empate')
+        print('DEU VELHA!')
         break
 
 #jogador 2
@@ -94,5 +94,5 @@ while(True):
         print('Jogador numero 2 ganhou')
         break
     if(verificar_empate(tabela)):
-        print('Empate')
+        print('DEU VELHA')
         break
